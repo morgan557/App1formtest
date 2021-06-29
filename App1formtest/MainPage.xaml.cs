@@ -10,7 +10,7 @@ namespace App1formtest
     public partial class MainPage : ContentPage
     {
         public MainPage()
-        {
+        {  //test
             InitializeComponent();
         }
     }
